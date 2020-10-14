@@ -1,0 +1,10 @@
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\bin\Debug\DemoDoAnWindowsForm.exe.config
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\bin\Debug\DemoDoAnWindowsForm.exe
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\bin\Debug\DemoDoAnWindowsForm.pdb
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.csprojAssemblyReference.cache
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.Form1.resources
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.Properties.Resources.resources
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.csproj.GenerateResource.cache
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.exe
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAnWindowsForm\obj\Debug\DemoDoAnWindowsForm.pdb

@@ -1,0 +1,14 @@
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.exe
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.pdb
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.csprojAssemblyReference.cache
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.Form1.resources
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.exe
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.pdb
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.exe.manifest
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.application
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.exe.manifest
+C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.application
