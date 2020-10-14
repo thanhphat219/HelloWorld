@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DemoDoAn.exe" size="857024">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DemoDoAn.exe" size="856512">
       <assemblyIdentity name="DemoDoAn" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XfI5Uy3B1dstBMWgeYjWmXmOptfqIUgCz3n9nNZDW6k=</dsig:DigestValue>
+        <dsig:DigestValue>jxAlCnrpmCUQJjP9dLfGM/crDanR80n9UvtZtxzfLvg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
