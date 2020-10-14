@@ -12,3 +12,17 @@ C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDo
 C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.application
 C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.exe.manifest
 C:\Users\THANHPHAT219\source\repos\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.application
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.exe.manifest
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.application
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.exe
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\bin\Debug\DemoDoAn.pdb
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.csprojAssemblyReference.cache
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.Form1.resources
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.exe.manifest
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.application
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.exe
+D:\chuyên môn\code\HelloWorld\DemoDoAnWindowsForm\DemoDoAn\obj\Debug\DemoDoAn.pdb
