@@ -49,6 +49,7 @@ namespace DemoDoAn
 
         private void button5_Click(object sender, EventArgs e)
         {
+            //hello 
             if (Music != null)
                 Music.Stop();
         }
