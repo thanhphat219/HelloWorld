@@ -27,7 +27,7 @@ namespace DemoDoAn
         public void Play()
         {
             string Command = "Play MediaFile";
-            if (Repeat)
+            if (Repeat== false)
                 Command += " REPEAT";
             mciSendString(Command, null, 0, IntPtr.Zero);
         }
